@@ -1,7 +1,7 @@
 package com.sampson.chat.config;
 
-import com.sampson.chat.chat.ChatMessage;
-import com.sampson.chat.chat.MessageType;
+import com.sampson.chat.model.ChatMessage;
+import com.sampson.chat.model.MessageType;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.event.EventListener;

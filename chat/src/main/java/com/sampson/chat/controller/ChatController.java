@@ -1,5 +1,6 @@
-package com.sampson.chat.chat;
+package com.sampson.chat.controller;
 
+import com.sampson.chat.model.ChatMessage;
 import org.springframework.http.ResponseEntity;
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.handler.annotation.Payload;

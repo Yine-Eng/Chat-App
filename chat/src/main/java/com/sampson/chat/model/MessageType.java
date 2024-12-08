@@ -1,4 +1,4 @@
-package com.sampson.chat.chat;
+package com.sampson.chat.model;
 
 public enum MessageType {
 

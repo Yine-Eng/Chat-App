@@ -1,9 +1,8 @@
-package com.sampson.chat.chat;
+package com.sampson.chat.model;
 
 import lombok.*;
 import java.time.LocalDateTime;
 
-import java.awt.*;
 @Getter
 @Setter
 @AllArgsConstructor
